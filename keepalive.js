@@ -3,4 +3,4 @@ function printHello() {
 }
 
 // Call printHello every 5 seconds
-setInterval(printHello, 5000); // 5000 milliseconds = 5 seconds
+setInterval(printHello, 2000); // 5000 milliseconds = 5 seconds
